@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="table1.xsl"?>
+
+<mtech>
+  <student>
+    <name>Acsa Sunny</name>
+    <rollno>0010</rollno>
+    <country>USA</country>
+    <branch>EC</branch>
+    <contactno>1045646590</contactno>
+    <year>1985</year>
+  </student>
+  <student>
+    <name>Annie Sonia</name>
+    <rollno>0020</rollno>
+    <country>UK</country>
+    <branch>CSs</branch>
+    <contactno>7980909078</contactno>
+    <year>1988</year>
+  </student>
+  <student>
+    <name>Anoopa Simon</name>
+    <rollno>00023</rollno>
+    <country>USA</country>
+    <branch>IT</branch>
+    <contactno>9890000690</contactno>
+    <year>1982</year>
+  </student>
+  <student>
+    <name>Gayathri Sumesh</name>
+    <rollno>9080</rollno>
+    <country>India</country>
+    <branch>CC</branch>
+    <contactno>1088970820</contactno>
+    <year>1990</year>
+  </student>
+  <student>
+    <name>Saha</name>
+    <rollno>1243</rollno>
+    <country>EU</country>
+    <branch>IC</branch>
+    <contactno>9897036490</contactno>
+    <year>1997</year>
+  </student>
+  <student>
+    <name>Swetha g</name>
+    <rollno>1347</rollno>
+    <country>SL</country>
+    <branch>Polymer</branch>
+    <contactno>6541098690</contactno>
+    <year>1998</year>
+  </student>
+  <student>
+    <name>Vineeth Kumar</name>
+    <rollno>7689</rollno>
+    <country>Maldives</country>
+    <branch>EE</branch>
+    <contactno>8788989910</contactno>
+    <year>1973</year>
+  </student>
+  <student>
+    <name>Noel Fernades</name>
+    <rollno>9809</rollno>
+    <country>UK</country>
+    <branch>ME</branch>
+    <contactno>8878950999</contactno>
+    <year>1990</year>
+  </student>
+  </mtech>
+
